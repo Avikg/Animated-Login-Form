@@ -62,24 +62,24 @@ Try entering wrong credentials to see the shake animation, or correct credential
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/animated-login-form.git
+git clone https://github.com/Avikg/Animated-Login-Form.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd animated-login-form
+cd Animated-Login-Form
 ```
 
-3. Open `index.html` in your browser:
+3. Open `login_form.html` in your browser:
 ```bash
 # On macOS
-open index.html
+open login_form.html
 
 # On Windows
-start index.html
+start login_form.html
 
 # On Linux
-xdg-open index.html
+xdg-open login_form.html
 ```
 
 Or simply drag and drop the `index.html` file into your browser.
@@ -87,8 +87,8 @@ Or simply drag and drop the `index.html` file into your browser.
 ## 📂 Project Structure
 
 ```
-animated-login-form/
-├── index.html          # Main HTML file with embedded CSS and JS
+Animated-Login-Form/
+├── login_form.html          # Main HTML file with embedded CSS and JS
 ├── screenshots/        # Screenshots and GIFs for README
 │   ├── demo.png
 │   ├── login-screen.png
