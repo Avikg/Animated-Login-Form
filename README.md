@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Avik**
 - GitHub: [@Avikg](https://github.com/Avikg)
 - LinkedIn: [Avik Pramanick](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/avik-iitian/)
-- Email: your.email@example.com
+- Email: avik.pramanick@gmail.com
 
 ## 🙏 Acknowledgments
 
