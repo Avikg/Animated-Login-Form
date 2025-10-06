@@ -2,7 +2,7 @@
 
 An interactive and playful login form with animated characters that respond to user interactions. The characters follow your cursor, tilt towards it, and react to login attempts with expressive animations.
 
-![Login Form Demo](screenshots/demo.png)
+![Login Form Demo](screenshots/demo.gif)
 
 ## ✨ Features
 
